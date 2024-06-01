@@ -58,7 +58,7 @@ class TestAccountService(TestCase):
     #  H E L P E R   M E T H O D S
     ######################################################################
 
-  
+
     def _create_accounts(self, count):
         """Factory method to create accounts in bulk"""
         accounts = []
